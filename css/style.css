@@ -6,9 +6,10 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: url("../images/backgrounds/architecture.jpg") center no-repeat;
   background-size: cover;
   background-attachment: fixed;
+  background-color: #000;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
